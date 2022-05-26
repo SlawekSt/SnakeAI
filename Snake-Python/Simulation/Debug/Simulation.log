@@ -1,0 +1,2 @@
+﻿  Simulation.cpp
+C:\Users\SSSS\source\repos\SnakeFinalProject\Simulation\Simulation.cpp(1,10): fatal error C1083: Nie można otworzyć pliku dołącz: 'pybind11/pybind11.h': No such file or directory

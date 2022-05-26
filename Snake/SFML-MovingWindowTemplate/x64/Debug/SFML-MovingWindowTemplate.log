@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (GridGenerator.vcxproj, SFML-MovingWindowTemplate.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  GeneticAlgorithm.cpp
+  main.cpp
+  Mesh.cpp
+  NeuralNetwork.cpp
+  Simulation.cpp
+  Snake.cpp
+  Generating Code...
+  SFML-MovingWindowTemplate.vcxproj -> E:\Do zachowania\RemasteredProjects\Snake-Neuroevolution\Snake\x64\Debug\Snake.exe
